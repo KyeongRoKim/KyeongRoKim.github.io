@@ -8,7 +8,7 @@ main:
     url: /Publications/ 
   - title: "Google Scholar"
     url: https://scholar.google.com/citations?user=M1Tqhy8AAAAJ&hl=ko
-  - title: "Arxive"
+  - title: "arXiv"
     url: https://arxiv.org/search/?query=KyeongRo+Kim&searchtype=all&source=header
   # - title: "Sample Posts"
   #   url: /year-archive/
