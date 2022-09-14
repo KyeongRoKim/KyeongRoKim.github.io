@@ -9,7 +9,7 @@ comments: true
  
 ## Education
 
-### Integrated Master’s and Ph.D. Program
+### - Integrated Master’s and Ph.D. Program
 
 - Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
 - Major : Mathematical Sciences
@@ -18,7 +18,7 @@ comments: true
 - September 2016 - August 2021.
 
 
-### B.S. Mathematical Sciences
+### - B.S. Mathematical Sciences
 
 - Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
 - Advisor : Gyo Taek Jin 
