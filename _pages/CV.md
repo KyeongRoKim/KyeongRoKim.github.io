@@ -15,7 +15,7 @@ comments: true
 - Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
 - Major : Mathematical Sciences
 - Dissertation : **Groups acting on the circle with invariant laminations** (defended on Jun. 8, 2021)
-- Advisor : Hyungryul Baik
+- Advisor : [Hyungryul Baik](https://sites.google.com/site/hrbaik85/ "Hyungryul Baik's site")
 - September 2016 - August 2021.
 
 
