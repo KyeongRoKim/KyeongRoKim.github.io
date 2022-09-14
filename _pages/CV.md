@@ -27,7 +27,10 @@ comments: true
 
 ## Research field or interesting field
 
-- Low-dimensional Topology, Geometric Topology, Geometric Group Theory, Teichmu ̈ller Theory
+- Low-dimensional Topology
+- Geometric Topology
+- Geometric Group Theory
+- Teichmüller Theory
 
 
 ## Honors and Followships
