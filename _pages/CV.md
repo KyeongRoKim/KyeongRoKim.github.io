@@ -12,26 +12,26 @@ comments: true
 
 ### Integrated Master’s and Ph.D. Program
 
--Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
--Major : Mathematical Sciences
--Dissertation : **Groups acting on the circle with invariant laminations** (defended on Jun. 8, 2021)
--Advisor : Hyungryul Baik
--September 2016 - August 2021.
+- Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
+- Major : Mathematical Sciences
+- Dissertation : **Groups acting on the circle with invariant laminations** (defended on Jun. 8, 2021)
+- Advisor : Hyungryul Baik
+- September 2016 - August 2021.
 
 
 ### B.S. Mathematical Sciences
 
--Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
--Advisor : Gyo Taek Jin 
--February 2012 - August 2016.
+- Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
+- Advisor : Gyo Taek Jin 
+- February 2012 - August 2016.
 
 ## Research field or interesting field
 
--Low-dimensional Topology, Geometric Topology, Geometric Group Theory, Teichmu ̈ller Theory
+- Low-dimensional Topology, Geometric Topology, Geometric Group Theory, Teichmu ̈ller Theory
 
 ## Honors and Followships
 
--Best undergraduate thesis presentation award, KAIST, 2015.
+- Best undergraduate thesis presentation award, KAIST, 2015.
 
 ## Publications
 
