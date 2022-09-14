@@ -12,7 +12,7 @@ comments: true
 1. Laminar groups and 3-manifolds (with H. Baik), Ohshika, Ken’ichi, and Athanase Papadopoulos, eds. In the Tradition of Thurston: Geometry and Topology. Springer Nature, 2020.
 1. An algorithm to compute Teichmueller polynomial from matrices (with H. Baik, C. Wu, T. Jo), Geom. Dedicata. (2020), Vol 204, pp.175-189.
 
-## Preprint
+## Preprints
 
 1. Complete characterization of Fuchsian groups in terms of invariant laminations (with H. Baik) arXiv:2110.06481
 1. 
