@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "KyeongRo Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am a PhD in Mathematics. I'm working in the field of Geometric Topology and Geometric Group Theory."
   location         : "Seoul National University(SNU)"
   email            :
   links:
