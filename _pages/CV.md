@@ -9,7 +9,6 @@ comments: true
  
 ## Education
 
-
 ### Integrated Master’s and Ph.D. Program
 
 - Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
@@ -25,28 +24,16 @@ comments: true
 - Advisor : Gyo Taek Jin 
 - February 2012 - August 2016.
 
+
 ## Research field or interesting field
 
 - Low-dimensional Topology, Geometric Topology, Geometric Group Theory, Teichmu ̈ller Theory
+
 
 ## Honors and Followships
 
 - Best undergraduate thesis presentation award, KAIST, 2015.
 
-## Publications
-
-### Published or Aceepted 
-
-1. A sequence of algebraic integer relation numbers which converges to 4 (with W. Jang), Topology and its Applications, Volume 294, 2021, 107665.
-1. Laminar groups and 3-manifolds (with H. Baik), Ohshika, Ken’ichi, and Athanase Papadopoulos, eds. In the Tradition of Thurston: Geometry and Topology. Springer Nature, 2020.
-1. An algorithm to compute Teichmueller polynomial from matrices (with H. Baik, C. Wu, T. Jo), Geom. Dedicata. (2020), Vol 204, pp.175-189.
-
-### Preprint
-
-- Complete characterization of Fuchsian groups in terms of invariant laminations (with H. Baik) arXiv:2110.06481
-
-### In preparation
--
 
 ## Talks
 
