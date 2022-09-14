@@ -13,22 +13,16 @@ comments: true
 ## Integrated Master’s and Ph.D. Program
 
 Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
-
 Major : Mathematical Sciences
-
 Dissertation : **Groups acting on the circle with invariant laminations** (defended on Jun. 8, 2021)
-
 Advisor : Hyungryul Baik
-
 September 2016 - August 2021.
 
 
 ## B.S. Mathematical Sciences
 
 Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
-
 Advisor : Gyo Taek Jin 
-
 February 2012 - August 2016.
 
 # Research field or interesting field
@@ -44,9 +38,7 @@ Best undergraduate thesis presentation award, KAIST, 2015.
 ## Published or Aceepted 
 
 A sequence of algebraic integer relation numbers which converges to 4 (with W. Jang), Topology and its Applications, Volume 294, 2021, 107665.
-
 Laminar groups and 3-manifolds (with H. Baik), Ohshika, Ken’ichi, and Athanase Papadopoulos, eds. In the Tradition of Thurston: Geometry and Topology. Springer Nature, 2020.
-
 An algorithm to compute Teichmueller polynomial from matrices (with H. Baik, C. Wu, T. Jo), Geom. Dedicata. (2020), Vol 204, pp.175-189.
 
 ## Preprint
