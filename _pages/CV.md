@@ -49,7 +49,7 @@ Workshop: Low dimensional actions, IHP(Institut Henri Poincar\'e), France, (Apri
 1. Local working seminar, titled "Groupes, Dynamique \& Topologie", Universit\'e de Bourgogne, Dijon, France, (October~November, 2023)  
 1. G\'eom\'etrie, Alg\`ebre, Dynamique et Topologie seminar, Universit\'e de Bourgogne, Dijon France, (October 12, 2023) 
 1. Korea-Chile Workshop on Dynamical Group Theory, Korea, (September 26$\sim$28, 2023) 
-1. $B\operatorname{\Gamma}$ School IV : Homotopy Theory of Foliations, Japan, (September 4-7, 2023) 
+1. BGamma School IV : Homotopy Theory of Foliations, Japan, (September 4-7, 2023) 
 1. The 18th East Asian Conference on Geometric Topology, China/online (Feburary, 6-9, 2023) 
 1. Virtual Seminar on 
 Geometry and Topology(VISGAT), KIAS (Korea Institute For Advanced Study), Korea (November 21, 2022)
