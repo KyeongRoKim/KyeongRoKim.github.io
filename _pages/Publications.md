@@ -15,4 +15,6 @@ comments: true
 ## Preprints
 
 1. Complete characterization of Fuchsian groups in terms of invariant laminations (with H. Baik) [arXiv:2110.06481](https://arxiv.org/abs/2110.06481), 2021 
-1. Groups acting on veering pairs and loom spaces (with H.Baik) [arXiv:2206.10874](https://arxiv.org/abs/2206.10874), 2022
+1. Groups acting on veering pairs and Kleinian groups (with H. Baik, H. Jung) [arXiv:2206.10874](https://arxiv.org/abs/2206.10874), 2022
+1. Uniform difference between the length spectra of Out(F2) and the genus two handle-
+body group (with D.Seo) [arXiv:2308.03710](https://arxiv.org/abs/2308.03710), 2023
