@@ -46,7 +46,7 @@ comments: true
 1. Group Actions and Rigidity: Around the Zimmer Program,
 Workshop: Low dimensional actions, IHP(Institut Henri Poincar\'e), France, (April 29~May 4, 2024) 
 1. PS-SNU Geometry/Topology Online Seminar, Online (April 9, 2024) 
-1. Local working seminar, titled "Groupes, Dynamique \& Topologie", Universit\'e de Bourgogne, Dijon, France, (October~November, 2023)  
+1. Local working seminar, titled "Groupes, Dynamique & Topologie", Universit\'e de Bourgogne, Dijon, France, (October~November, 2023)  
 1. G\'eom\'etrie, Alg\`ebre, Dynamique et Topologie seminar, Universit\'e de Bourgogne, Dijon France, (October 12, 2023) 
 1. Korea-Chile Workshop on Dynamical Group Theory, Korea, (September 26$\sim$28, 2023) 
 1. BGamma School IV : Homotopy Theory of Foliations, Japan, (September 4-7, 2023) 
@@ -54,7 +54,7 @@ Workshop: Low dimensional actions, IHP(Institut Henri Poincar\'e), France, (Apri
 1. Virtual Seminar on 
 Geometry and Topology(VISGAT), KIAS (Korea Institute For Advanced Study), Korea (November 21, 2022)
 1. Rookies Workshop, Seoul National University, Korea (November, 4-5, 2022)
-1. PK$^2$ Workshop in Topology, Busan, Korea (November 1-4, 2022)
+1. PK2 Workshop in Topology, Busan, Korea (November 1-4, 2022)
 1. School on Dynamical Group Theory, Institut de Mathématiques de Bourgogne, Dijon, France (October 3-7, 2022)
 1. World of GroupCraft II, online (September 2-3, 2022)
 1. PK$^2$ Workshop in Topology, Jeju, Korea (May 29-June 1, 2022)
