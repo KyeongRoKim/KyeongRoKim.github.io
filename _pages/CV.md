@@ -57,7 +57,7 @@ Geometry and Topology(VISGAT), KIAS (Korea Institute For Advanced Study), Korea 
 1. PK2 Workshop in Topology, Busan, Korea (November 1-4, 2022)
 1. School on Dynamical Group Theory, Institut de Mathématiques de Bourgogne, Dijon, France (October 3-7, 2022)
 1. World of GroupCraft II, online (September 2-3, 2022)
-1. PK$^2$ Workshop in Topology, Jeju, Korea (May 29-June 1, 2022)
+1. PK2 Workshop in Topology, Jeju, Korea (May 29-June 1, 2022)
 1. The 17th East Asian Conference on Geometric Topology, seoul/online (January. 18-21, 2022) 
 1. Euler seminar, Konkuk University, Korea, online (October 26, 2021)
 1. BK 21 FOUR Rookies Pitch, Seoul National University, Korea  (September 7, 2021)
