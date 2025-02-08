@@ -11,8 +11,8 @@ comments: true
 
 
 ## Academic Appointments
-- Postdoctoral Researcher, Research institute of Mathematics, Seoul National University, April 2022 $\sim$ Present.
-- Postdoctoral Researcher, BK21 FOUR(BrainKorea21 Four),  Seoul National University, Korea, September 2021 $\sim$ February 2022. 
+- Postdoctoral Researcher, Research institute of Mathematics, Seoul National University, April 2022 ~ Present.
+- Postdoctoral Researcher, BK21 FOUR(BrainKorea21 Four),  Seoul National University, Korea, September 2021 ~ February 2022. 
 
 ## Education
 
