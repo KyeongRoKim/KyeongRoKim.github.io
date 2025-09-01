@@ -15,8 +15,12 @@ comments: true
 1. An algorithm to compute Teichmueller polynomial from matrices (with H. Baik, C. Wu, T. Jo), Geom. Dedicata. (2020), Vol 204, pp.175-189.
 
 ## Preprints
-
-1. Complete characterization of Fuchsian groups in terms of invariant laminations (with H. Baik), [arXiv:2110.06481](https://arxiv.org/abs/2110.06481), 2021 
-1. Quasimorphisms on the group of density preserving diffeomorphisms of the Möbius band (with M.Shuhei), [arXiv:2412.18466](https://arxiv.org/abs/2412.18466), 2024
+1. The Euler Class and Flux Homomorphisms under Non-Orientability (with  Shuhei Maruyama), [arXiv:2508.12874](https://arxiv.org/abs/2508.12874), 2025
+1. Ping-pong dynamics of hyperbolic-like actions with non-simple points (with Michele Triestino), [arXiv:2506.01690](https://arxiv.org/abs/2506.01690), 2025
+1. Matsumoto dichotomy on foliated S^1-bundles (with Hongjun. Lee), [arXiv:2502.08203](https://arxiv.org/abs/2502.08203), 2025
 1. Topologically protected Q-switching for a pair of the Exceptional points in an optical microcavity laser (with Kyu-Won Park, Jinuk Kim, Kabgyun Jeong) (co-first authors: Kyu-Won Park, KyeongRo Kim), [arXiv:2501.00406](https://arxiv.org/abs/2501.00406), 2024
-1. Matsumoto dichotomy on foliated S^1-bundles (with H. Lee), [arXiv:2502.08203](https://arxiv.org/abs/2502.08203), 2025
+1. Quasimorphisms on the group of density preserving diffeomorphisms of the Möbius band (with Shuhei Maruyama), [arXiv:2412.18466](https://arxiv.org/abs/2412.18466), 2024
+1. Complete characterization of Fuchsian groups in terms of invariant laminations (with H. Baik), [arXiv:2110.06481](https://arxiv.org/abs/2110.06481), 2021 
+
+
+
