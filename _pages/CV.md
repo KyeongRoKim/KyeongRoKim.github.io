@@ -11,7 +11,8 @@ comments: true
 
 
 ## Academic Appointments
-- Postdoctoral Researcher, Research institute of Mathematics, Seoul National University, April 2022 ~ Present.
+- Project Research Fellows, Korea Institute for Advanced Study(KIAS), July 2025 ∼ present
+- Postdoctoral Researcher, Research institute of Mathematics, Seoul National University, April 2022 ~ June 2025.
 - Postdoctoral Researcher, BK21 FOUR(BrainKorea21 Four),  Seoul National University, Korea, September 2021 ~ February 2022. 
 
 ## Education
@@ -41,15 +42,17 @@ comments: true
 
 ## Research field or interesting field
 
-- Low-dimensional Topology
 - Geometric Topology
 - Geometric Group Theory
 - Teichmüller Theory
 - Foliation theory
-- Dynamic group theory
+- Dynamical group theory
 
 ## Talks
-
+1. PNU Geometry and Topology seminar,  Pusan National University, Korea, (May 19th, 2025)
+1. KIAS Dynamics and Topology Group Seminar,  KIAS(Korea Institute For Advanced Study), Korea, (April 11th, 2025)
+1. KIAS HCMC Topology seminar,  KIAS(Korea Institute For Advanced Study), Korea, (October 23rd, 2024),
+1. 2024 YGTK, One day workshop with Young Geometric Topologists at KAIST, (June 6, 2024) 
 1. Group Actions and Rigidity: Around the Zimmer Program,
 Workshop: Low dimensional actions, IHP(Institut Henri Poincar\'e), France, (April 29~May 4, 2024) 
 1. PS-SNU Geometry/Topology Online Seminar, Online (April 9, 2024) 
