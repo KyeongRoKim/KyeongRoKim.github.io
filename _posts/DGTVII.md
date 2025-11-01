@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Dynamical Group Theory VII(**November 26 to 28**, 2025) is Now Open"
+---
+
 # Registration for Dynamical Group Theory is Now Open!
 
 I am currently organizing a workshop, which is part of the *Dynamical Group Theory* workshop series.  
