@@ -6,8 +6,8 @@ author_profile: true
 comments: true
 ---
 <p style="text-align: justify;">
+  
 ## Published or Accepted
-
 1. Quasimorphisms on the group of density preserving diffeomorphisms of the Möbius band (with Shuhei Maruyama), [arXiv:2412.18466](https://arxiv.org/abs/2412.18466), accepted, International Mathematics Research Notices (IMRN).
 1. Topologically protected Q-switching for a pair of the Exceptional points in an optical microcavity laser (with Kyu-Won Park, Jinuk Kim, Kabgyun Jeong) (co-first authors: Kyu-Won Park, KyeongRo Kim), [arXiv:2501.00406](https://arxiv.org/abs/2501.00406), accepted, Photonics Research.
 1. Groups acting on veering pairs and Kleinian groups (with Hyungryul Baik, Hongtaek Jung), Journal of the London Mathematical Society, Volume 111, Issue 1, January 2025.
