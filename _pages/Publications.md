@@ -5,7 +5,6 @@ permalink: /Publications/
 author_profile: true
 comments: true
 ---
-<p style="text-align: justify;">
   
 ## Published or Accepted
 1. Quasimorphisms on the group of density preserving diffeomorphisms of the Möbius band (with Shuhei Maruyama), [arXiv:2412.18466](https://arxiv.org/abs/2412.18466), accepted, International Mathematics Research Notices (IMRN).
@@ -21,5 +20,5 @@ comments: true
 1. Ping-pong dynamics of hyperbolic-like actions with non-simple points (with Michele Triestino), [arXiv:2506.01690](https://arxiv.org/abs/2506.01690), 2025
 1. Matsumoto dichotomy on foliated S^1-bundles (with Hongjun. Lee), [arXiv:2502.08203](https://arxiv.org/abs/2502.08203), 2025
 1. Complete characterization of Fuchsian groups in terms of invariant laminations (with Hyungryul Baik), [arXiv:2110.06481](https://arxiv.org/abs/2110.06481), 2021 
-</p>
+
 
